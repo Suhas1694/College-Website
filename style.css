@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkblue;
+}
+
+p {
+  font-size: 20px;
+}
+
+nav a {
+  margin: 0 0.75rem;
+}
